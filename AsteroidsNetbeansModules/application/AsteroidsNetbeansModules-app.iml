@@ -30,6 +30,7 @@
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-awt:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-dialogs:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-windows:RELEASE112" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-annotations-common:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-intent:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-progress:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-progress-nb:RELEASE112" level="project" />
@@ -38,6 +39,7 @@
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-actions:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-explorer:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-filesystems-nb:RELEASE112" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-io:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-loaders:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-nodes:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-text:RELEASE112" level="project" />
@@ -77,6 +79,7 @@
     <orderEntry type="library" name="Maven: org.osgi:osgi.core:7.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.osgi:osgi.cmpn:7.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.external:testng-6.8.1-dist:RELEASE90" level="project" />
+    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-autoupdate-services:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-sendopts:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.external:updater:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.modules:org-netbeans-core-ui:RELEASE112" level="project" />
@@ -104,27 +107,5 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.netbeans.api:org-netbeans-modules-nbjunit:RELEASE112" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.netbeans.modules:org-netbeans-insane:RELEASE112" level="project" />
     <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-libs-junit4:RELEASE112" level="project" />
-    <orderEntry type="module" module-name="SilentUpdate" />
-    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-api-annotations-common:RELEASE112" level="project" />
-    <orderEntry type="library" name="Maven: org.netbeans.api:org-netbeans-modules-autoupdate-services:RELEASE112" level="project" />
-    <orderEntry type="library" name="Maven: org.netbeans.api:org-openide-io:RELEASE112" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-context:5.2.8.RELEASE" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.6" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.6" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.6" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.4.5" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.4.5" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.4.5" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-logging:2.4.5" level="project" />
-    <orderEntry type="library" name="Maven: ch.qos.logback:logback-classic:1.2.3" level="project" />
-    <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.3" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.30" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-to-slf4j:2.13.3" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.logging.log4j:log4j-api:2.13.3" level="project" />
-    <orderEntry type="library" name="Maven: org.slf4j:jul-to-slf4j:1.7.30" level="project" />
-    <orderEntry type="library" name="Maven: jakarta.annotation:jakarta.annotation-api:1.3.5" level="project" />
-    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.27" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.1" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.6" level="project" />
   </component>
 </module>

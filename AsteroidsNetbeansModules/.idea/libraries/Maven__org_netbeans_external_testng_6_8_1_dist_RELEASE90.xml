@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.netbeans.external:testng-6.8.1-dist:RELEASE90">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/testng-6.8.1-dist/RELEASE90/testng-6.8.1-dist-RELEASE90.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/testng-6.8.1-dist/RELEASE90/testng-6.8.1-dist-RELEASE90-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/testng-6.8.1-dist/RELEASE90/testng-6.8.1-dist-RELEASE90-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

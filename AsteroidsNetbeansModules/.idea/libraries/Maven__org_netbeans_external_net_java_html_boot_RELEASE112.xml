@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.netbeans.external:net-java-html-boot:RELEASE112">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/net-java-html-boot/RELEASE112/net-java-html-boot-RELEASE112.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/net-java-html-boot/RELEASE112/net-java-html-boot-RELEASE112-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/net-java-html-boot/RELEASE112/net-java-html-boot-RELEASE112-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

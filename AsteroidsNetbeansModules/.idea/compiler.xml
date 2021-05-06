@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Bullet" />
+        <module name="Player" />
+        <module name="CommonEnemy" />
+        <module name="SilentUpdate" />
+        <module name="CommonAsteroids" />
+        <module name="Collision" />
+        <module name="BigAsteroids" />
+        <module name="CommonBullet" />
+        <module name="Common" />
+        <module name="AsteroidsNetbeansModules-app" />
+        <module name="Asteroid" />
+        <module name="AsteroidsNetbeansModules-branding" />
+        <module name="Enemy" />
+        <module name="Core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Asteroid" target="1.8" />
+      <module name="AsteroidsNetbeansModules-app" target="1.8" />
+      <module name="AsteroidsNetbeansModules-branding" target="1.8" />
+      <module name="AsteroidsNetbeansModules-parent" target="1.8" />
+      <module name="BigAsteroids" target="1.8" />
+      <module name="Bullet" target="1.8" />
+      <module name="Collision" target="1.8" />
+      <module name="Common" target="1.8" />
+      <module name="CommonAsteroids" target="1.8" />
+      <module name="CommonBullet" target="1.8" />
+      <module name="CommonEnemy" target="1.8" />
+      <module name="Core" target="1.8" />
+      <module name="Enemy" target="1.8" />
+      <module name="Player" target="1.8" />
+      <module name="SilentUpdate" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Asteroid" options="-parameters" />
+      <module name="AsteroidsNetbeansModules-app" options="-parameters" />
+      <module name="AsteroidsNetbeansModules-branding" options="-parameters" />
+      <module name="BigAsteroids" options="-parameters" />
+      <module name="Bullet" options="-parameters" />
+      <module name="Collision" options="-parameters" />
+      <module name="Common" options="-parameters" />
+      <module name="CommonAsteroids" options="-parameters" />
+      <module name="CommonBullet" options="-parameters" />
+      <module name="CommonEnemy" options="-parameters" />
+      <module name="Core" options="-parameters" />
+      <module name="Enemy" options="-parameters" />
+      <module name="Player" options="-parameters" />
+      <module name="SilentUpdate" options="-parameters" />
+    </option>
+  </component>
+</project>

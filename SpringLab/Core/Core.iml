@@ -39,6 +39,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.6" level="project" />
+    <orderEntry type="module" module-name="player" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.4.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:2.4.5" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:2.4.5" level="project" />
@@ -53,7 +54,6 @@
     <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.27" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:5.3.6" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.6" level="project" />
-    <orderEntry type="module" module-name="player" />
     <orderEntry type="module" module-name="Asteroid" />
     <orderEntry type="module" module-name="Collision" />
     <orderEntry type="library" name="Maven: dk.sdu.mmmi.cbse:Enemy:1.0.1-SNAPSHOT" level="project" />

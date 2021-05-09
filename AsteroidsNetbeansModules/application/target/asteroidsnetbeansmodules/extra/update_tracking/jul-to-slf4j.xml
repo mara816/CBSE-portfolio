@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="jul.to.slf4j">
-    <module_version install_time="1620225665258" last="true" origin="installer" specification_version="1.7.30">
-        <file crc="1251327278" name="config/Modules/jul-to-slf4j.xml"/>
-        <file crc="1367565108" name="modules/jul-to-slf4j.jar"/>
-    </module_version>
-</module>

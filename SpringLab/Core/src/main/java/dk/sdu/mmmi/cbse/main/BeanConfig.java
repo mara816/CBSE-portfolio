@@ -30,27 +30,22 @@ public class BeanConfig {
 public IGamePluginService enemyPlugin(){
 return new EnemyPlugin();
 }
-
 @Bean
 public IEntityProcessingService enemyControlSystem(){
 return new EnemyControlSystem();
 }
-
 @Bean
 public IGamePluginService playerPlugin(){
 return new PlayerPlugin();
 }
-
 @Bean
 public IEntityProcessingService playerControlSystem(){
 return new PlayerControlSystem();
 }
-
 @Bean
 public IGamePluginService asteroidPlugin(){
     return new AsteroidPlugin();
 }
-
 @Bean
 public IEntityProcessingService asteroidControlSystem() {
     return new AsteroidControlSystem();

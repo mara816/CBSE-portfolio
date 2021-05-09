@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
->Log Session: Wednesday, May 5, 2021 4:41:13 PM CEST
+>Log Session: Sunday, May 9, 2021 6:37:27 PM CEST
 >System Info: 
   Product Version         = Apache NetBeans Platform Dev (Build 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54)
   Operating System        = Linux version 5.8.0-50-generic running on amd64
@@ -8,21 +8,21 @@
   Java Home               = /usr/lib/jvm/java-8-openjdk-amd64/jre
   System Locale; Encoding = da_DK (asteroidsnetbeansmodules); UTF-8
   Home Directory          = /home/matti
-  Current Directory       = /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application
-  User Directory          = /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/userdir
-  Cache Directory         = /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/userdir/var/cache
-  Installation            = /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/etc
-                            /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
-                            /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/extra
-                            /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/bin
-                            /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/java
-                            /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
+  Current Directory       = /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application
+  User Directory          = /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/userdir
+  Cache Directory         = /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/userdir/var/cache
+  Installation            = /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/etc
+                            /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules
+                            /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
+                            /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/extra
+                            /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/bin
+                            /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/java
+                            /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
   Boot & Ext. Classpath   = /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar
-  Application Classpath   = /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/boot.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-modules.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util-lookup.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util-ui.jar:/usr/lib/jvm/java-8-openjdk-amd64/lib/dt.jar:/usr/lib/jvm/java-8-openjdk-amd64/lib/tools.jar
-  Startup Classpath       = /home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-netbeans-libs-asm.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/core-base.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/core.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-openide-filesystems-compat8.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-openide-filesystems.jar:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/asm-all-5.0.1.jar
+  Application Classpath   = /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/boot.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-modules.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util-lookup.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util-ui.jar:/usr/lib/jvm/java-8-openjdk-amd64/lib/dt.jar:/usr/lib/jvm/java-8-openjdk-amd64/lib/tools.jar
+  Startup Classpath       = /home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-netbeans-libs-asm.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/core-base.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/core.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-openide-filesystems-compat8.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-openide-filesystems.jar:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/asm-all-5.0.1.jar
 -------------------------------------------------------------------------------
 WARNING [org.netbeans.modules.autoupdate.ui.actions.AutoupdateSettings]: The property "netbeans.default_userdir_root" was not set!
-WARNING [null]: Last record repeated again.
 INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.openide.util.lookup [8.39 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.openide.util [9.13 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
@@ -92,31 +92,51 @@ INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
 	org.netbeans.core.multitabs/1 [1.18.0.1 1 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.core.io.ui/1 [1.36 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
 	org.netbeans.api.progress.compat8 [1.53 11.2-d04fb24027334c4b6fd8397b5d0cdd33187a8f54]
+	org.mockito.mockito_all [1.9.5 1.9.5]
+	dk.sdu.mmmi.cbse.Common [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.CommonBullet [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.CommonEnemy [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.Enemy [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.CommonAsteroids [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.Collision [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.Bullet [1.0 1.0-20210509 202105091154]
+	dk.sdu.mmmi.cbse.BigAsteroids [1.0 1.0-20210406 202104062015]
+	dk.sdu.mmmi.cbse.Asteroid [1.0 1.0-20210509 202105091154]
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.mockito.mockito-all@1.9.5 resolved
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.mockito.mockito-all@1.9.5 started
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.apache.felix.framework@6.0.2 started
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy resolver: Gnome
 INFO [org.netbeans.core.network.proxy.gnome.GsettingsNetworkProxy]: GSettings system proxy resolver: direct connection
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy reloading succeeded.
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy - mode: direct
 INFO [org.netbeans.core.network.proxy.NetworkProxyReloader]: System network proxy: fell to default (correct if direct mode went before)
 INFO [org.netbeans.ui.metrics.laf]: USG_LOOK_AND_FEEL
-Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/FoldingData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.FoldingData
-INFO [null]: Last record repeated again.
-Exception "java.lang.ClassNotFoundException: com/intellij/codeInsight/editorActions/ReferenceData"while constructing DataFlavor for: application/x-java-jvm-local-objectref; class=com.intellij.codeInsight.editorActions.ReferenceData
-INFO [null]: Last record repeated again.
 Diagnostic information
 Input arguments:
 	-Djdk.home=/usr/lib/jvm/java-8-openjdk-amd64
 	-Dnetbeans.running.environment=gnome
-	-Dnetbeans.dirs=/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/etc:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/extra:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/bin:/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/java:
-	-Dnetbeans.home=/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
+	-Dnetbeans.dirs=/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/etc:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/extra:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/bin:/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/java:
+	-Dnetbeans.home=/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
 	-Dnetbeans.logger.console=true
 	-ea
 	-XX:+HeapDumpOnOutOfMemoryError
-	-XX:HeapDumpPath=/home/matti/Software/4. semester/Komponentbaseret/src - Mathias Rasmussen - Portfolio1/AsteroidsNetbeansModules/application/target/userdir/var/log/heapdump.hprof
+	-XX:HeapDumpPath=/home/matti/Software/4. semester/Komponentbaseret/CBSE- Portfolio/AsteroidsNetbeansModules/application/target/userdir/var/log/heapdump.hprof
 Compiler: HotSpot 64-Bit Tiered Compilers
 Heap memory usage: initial 124,0MB maximum 1762,0MB
 Non heap memory usage: initial 2,4MB maximum -1b
-Garbage collector: PS Scavenge (Collections=5 Total time spent=0s)
-Garbage collector: PS MarkSweep (Collections=1 Total time spent=0s)
-Classes: loaded=4649 total loaded=4649 unloaded 0
+Garbage collector: PS Scavenge (Collections=7 Total time spent=0s)
+Garbage collector: PS MarkSweep (Collections=2 Total time spent=0s)
+Classes: loaded=5109 total loaded=5109 unloaded 0
 INFO [org.netbeans.core.ui.warmup.DiagnosticTask]: Total memory 8.309.141.504
 INFO [null]: Total physical memory 8.309.141.504
+SEVERE [global]
+java.lang.UnsatisfiedLinkError: org.lwjgl.openal.AL10.nalGetSourcei(II)I
+	at org.lwjgl.openal.AL10.nalGetSourcei(Native Method)
+	at org.lwjgl.openal.AL10.alGetSourcei(AL10.java:853)
+	at com.badlogic.gdx.backends.lwjgl.audio.OpenALAudio.dispose(OpenALAudio.java:285)
+[catch] at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:116)
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.apache.felix.framework@6.0.2 256
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.mockito.mockito-all@1.9.5 256
+INFO [org.netbeans.core.netigso.Netigso]: bundle org.mockito.mockito-all@1.9.5 stopped

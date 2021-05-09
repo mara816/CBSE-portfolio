@@ -11,10 +11,8 @@ import dk.sdu.mmmi.cbse.common.data.World;
 import dk.sdu.mmmi.cbse.common.services.IEntityProcessingService;
 import dk.sdu.mmmi.cbse.common.services.IGamePluginService;
 import dk.sdu.mmmi.cbse.common.services.IPostEntityProcessingService;
-import dk.sdu.mmmi.cbse.common.util.SPILocator;
 import dk.sdu.mmmi.cbse.managers.GameInputProcessor;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Qualifier;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -33,32 +31,26 @@ public class Game
 
     @Autowired
     BeanConfig beanConfig = new BeanConfig();
-
     @Autowired
     private IGamePluginService enemyIGamePluginService() {
         return beanConfig.enemyPlugin();
     }
-
     @Autowired
     private IGamePluginService playerIGamePluginService() {
         return beanConfig.playerPlugin();
     }
-
     @Autowired
     public IGamePluginService asteroidIGamePluginService() {
         return beanConfig.asteroidPlugin();
     }
-
     @Autowired
     private IEntityProcessingService enemyIEntityProcessingService() {
         return beanConfig.enemyControlSystem();
     }
-
     @Autowired
     private IEntityProcessingService playerIEntityProcessingService() {
         return beanConfig.playerControlSystem();
     }
-
     @Autowired
     private IEntityProcessingService asteroidIEntityProcessingService() {
         return beanConfig.asteroidControlSystem();

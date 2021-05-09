@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="org.apache.logging.log4j.to_slf4j">
-    <module_version install_time="1620225665257" last="true" origin="installer" specification_version="2.13.3">
-        <file crc="2078406544" name="config/Modules/org-apache-logging-log4j-to_slf4j.xml"/>
-        <file crc="2178061199" name="modules/org-apache-logging-log4j-to_slf4j.jar"/>
-    </module_version>
-</module>

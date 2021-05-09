@@ -1,0 +1,5 @@
+META-INF/services/dk.sdu.mmmi.cbse.common.services.IGamePluginService
+META-INF/services/dk.sdu.mmmi.cbse.common.services.IEntityProcessingService
+dk/sdu/mmmi/cbse/bigasteroid/BigAsteroidPlugin.class
+dk/sdu/mmmi/cbse/bigasteroid/BigAsteroidProcessor.class
+dk/sdu/mmmi/cbse/bigasteroid/BigAsteroidSplitterImpl.class

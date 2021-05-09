@@ -20,9 +20,6 @@ import java.util.concurrent.CopyOnWriteArrayList;
 import org.openide.util.Lookup;
 import org.openide.util.LookupEvent;
 import org.openide.util.LookupListener;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.context.ApplicationContext;
-import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Game implements ApplicationListener {
 
@@ -54,10 +51,6 @@ public class Game implements ApplicationListener {
         for (IGamePluginService plugin : result.allInstances()) {
             plugin.start(gameData, world);
             gamePlugins.add(plugin);
-        }
-
-        for (IGamePluginService iGamePlugin : getPluginServices()) {
-            iGamePlugin.start(gameData, world);
         }
 
     }
@@ -123,18 +116,6 @@ public class Game implements ApplicationListener {
     public void dispose() {
     }
 
-    @Autowired
-    private Collection<? extends IGamePluginService> getPluginServices() {
-        ApplicationContext appContext = new AnnotationConfigApplicationContext(BeanConfig.class);
-        IGamePluginService enemy = appContext.getBean("enemyPlugin", IGamePluginService.class);
-        IGamePluginService player = appContext.getBean("playerPlugin", IGamePluginService.class);
-        IGamePluginService asteroid = appContext.getBean("asteroidPlugin", IGamePluginService.class);
-        ArrayList<IGamePluginService> pluginList = new ArrayList<>();
-        pluginList.add(enemy);
-        pluginList.add(player);
-        pluginList.add(asteroid);
-        return pluginList;
-    }
 
     private Collection<? extends IEntityProcessingService> getEntityProcessingServices() {
         return lookup.lookupAll(IEntityProcessingService.class);

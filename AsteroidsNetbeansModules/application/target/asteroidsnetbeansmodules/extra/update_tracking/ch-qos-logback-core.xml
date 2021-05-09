@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<module codename="ch.qos.logback.core">
-    <module_version install_time="1620225665256" last="true" origin="installer" specification_version="1.2.3">
-        <file crc="2210608933" name="config/Modules/ch-qos-logback-core.xml"/>
-        <file crc="3653013319" name="modules/ch-qos-logback-core.jar"/>
-    </module_version>
-</module>

@@ -29,11 +29,11 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Asteroid" options="" />
-      <module name="Bullets" options="-parameters" />
-      <module name="Collision" options="-parameters" />
+      <module name="Bullets" options="" />
+      <module name="Collision" options="" />
       <module name="Core" options="-parameters" />
-      <module name="common" options="-parameters" />
-      <module name="enemy" options="-parameters" />
+      <module name="common" options="" />
+      <module name="enemy" options="" />
       <module name="player" options="-parameters" />
     </option>
   </component>

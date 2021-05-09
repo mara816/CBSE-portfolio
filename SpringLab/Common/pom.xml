@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>dk.sdu.mmmi.cbse</groupId>
-        <artifactId>asteroids.serviceloader</artifactId>
+        <artifactId>springlab</artifactId>
         <version>1.0.1-SNAPSHOT</version>
     </parent>
     <artifactId>common</artifactId>
@@ -14,7 +14,6 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.6.1</version>
             </plugin>
         </plugins>
     </build>
